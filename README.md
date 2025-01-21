@@ -1,4 +1,4 @@
-# LocaMulla- Decentralized Location Data Marketplace
+# LocaMula- Decentralized Location Data Marketplace
 Welcome to LocaMula, a decentralized marketplace for buying, selling, and trading location data. Powered by blockchain technology, LocaMula ensures transparency, privacy, and security for all users while offering a fair and efficient system for location-based data exchanges.
 ## Table of Contents
 - Overview
