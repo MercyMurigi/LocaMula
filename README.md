@@ -27,7 +27,7 @@ LocaMula is designed to be a decentralized platform where individuals, businesse
 - Access to a test or mainnet Ethereum network
 - A modern browser for using the LocaMula platform
 #### Steps to Set Up Locally
-Clone the repository, Install dependencies, Set up the blockchain environment,Set up the blockchain environment, Run the development server
+Clone the repository, Install dependencies, Set up the blockchain environment, Run the development server
 ### Usage
 #### For Users (Data Providers):
 1. Create an account on LocaMula and connect your Ethereum wallet.
