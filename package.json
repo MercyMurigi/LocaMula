@@ -1,0 +1,27 @@
+{
+  "name": "locamula-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^2.2.3",
+    "did-jwt": "^8.0.8",
+    "did-resolver": "^4.1.0",
+    "ethers": "^6.13.5",
+    "ethr-did-resolver": "^11.0.3",
+    "next": "15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "viem": "^2.23.0",
+    "wagmi": "^2.14.11"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
